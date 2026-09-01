@@ -1,10 +1,8 @@
-# Scout for Premiere Pro: issue tracker
+# Scout for Premiere Pro: issue tracker (moved)
 
-Scout is a commercial extension for Adobe Premiere Pro. It edits multi-camera podcasts and connects AI agents to your timeline.
+Issues for Scout now live in the MCP server repository:
 
-This repository is the public issue tracker. The source code is not public.
+https://github.com/tro2789/scout-premiere-mcp/issues
 
 - Get Scout: https://trevorohare.gumroad.com/l/scout4premiere
 - Community and support: https://discord.gg/qYkacEyfUQ
-
-To report a bug or request a feature, open an issue using one of the templates.
